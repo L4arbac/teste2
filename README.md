@@ -10,7 +10,7 @@
 Este projeto foi desenvolvido para a disciplina "Oficina de Integração 2", com o objetivo de integrar conteúdos de disciplinas anteriores do curso de Engenharia de Software. O sistema apoia o projeto de extensão ELLP (Ensino Lúdico de Lógica e Programação) no gerenciamento de presença dos alunos nas oficinas de ensino.
 
 ## 1. Organização e Tema do Projeto
-- **Tema**: Registro de presença em oficinas educativas.
+- **Tema**: Registro de presença em oficinas de ensino.
 - **Objetivo**: Desenvolver um sistema que registre e gerencie a presença de alunos nas atividades do projeto ELLP, incluindo horários de entrada e saída, além da geração de relatórios de frequência.
 
 ## 2. Requisitos Funcionais
