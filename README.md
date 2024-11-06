@@ -14,13 +14,13 @@ Este projeto foi desenvolvido para a disciplina "Oficina de Integração 2", com
 - **Objetivo**: Desenvolver um sistema que registre e gerencie a presença de alunos nas atividades do projeto ELLP, incluindo horários de entrada e saída, além da geração de relatórios de frequência.
 
 ## 2. Requisitos Funcionais
+- **Autenticação e Autorização**: Controle de acesso com perfis diferenciados para administradores, voluntários e alunos.
 - **Cadastro de Usuários**: Armazenar informações essenciais, como nome, email, curso e RA dos alunos.
-- **Controle de Presença**: Permitir o registro de presença por meio de check-in manual.
-- **Consulta de Histórico de Presenças**: Visualização das presenças registradas, com data, hora de entrada e saída.
-- **Relatórios de Frequência**: Gerar relatórios de frequência para alunos, turmas e oficinas, com opção de exportação em CSV.
+- **Certificados de participação**: Gerar e visualizar certificados de participação do workshop.
+- **Geração de PDFs de certificado**: Gerar PDFs dos certificados de participação de workshops.
 - **Gerenciamento de Turmas**: Ferramenta para criar, editar e organizar as turmas e 
 suas datas.
-- **Autenticação e Autorização**: Controle de acesso com perfis diferenciados para administradores, voluntários e alunos.
+
 
 ## 3. Arquitetura do Sistema
 O sistema foi planejado seguindo uma arquitetura de três camadas (3-Tier), composta por:
